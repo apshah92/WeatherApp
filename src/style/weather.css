@@ -1,0 +1,39 @@
+
+
+.weather {
+    height : 100% ;
+    width : 20% ;
+    display: inline-block;
+}
+
+.imgContainer {
+    width : 100% ;
+}
+
+.weatherImg {
+    width : 100% ;
+    height: 100% ;
+}
+
+
+.temperature {
+    width : 100% ;
+}
+
+.left , .right { 
+    width : 50% ;
+    height: 100% ;
+    display: inline-block;
+    text-align: center ;
+}
+
+.weekday {
+    width: 100% ;
+    text-align: center;
+}
+
+.row-1 { height: 20%;}
+.row-2 { height: 40%;}
+.row-3 { height: 60%;}
+.row-4 { height: 80%;}
+.row-5 { height: 100%;}
